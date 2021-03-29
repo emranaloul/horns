@@ -1,0 +1,19 @@
+header{
+    border: solid 1px;
+    padding: 20px 0;
+    line-height: 30px;
+}
+div{
+    
+    width: 220px;
+    height: 300px;
+    
+    margin: 10px 9px;
+    line-height: 20px;
+    
+}
+footer{
+    width: 100%; 
+    border: 1px solid;
+    padding: 30px 0;  
+}
