@@ -1,0 +1,21 @@
+header{
+    
+    text-align: center;
+    align-items: center;
+    
+}
+
+div{ 
+    overflow: visible;   
+    text-align: center;
+    align-items: center;
+    overflow: visible;
+}
+
+footer{
+    width: 100%; 
+    border: 1px solid;
+    padding: 30px 0;
+    text-align: center;
+    margin: auto;
+}
